@@ -7,7 +7,6 @@ import numpy as np
 class Item(BaseModel):
     text: str
 
-
 _labels = ["good", "bad", "ugly"]
 
 app = FastAPI()

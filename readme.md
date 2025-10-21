@@ -18,7 +18,6 @@ docker run -v ~/PycharmProjects/python_2025_20:/src -p 8000:8000 -it python_2025
 uv sync
 ```
 
-
 ### Запуск сервера
 
 ```bash
